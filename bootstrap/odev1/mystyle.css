@@ -1,0 +1,56 @@
+body{
+	background-color:gray;
+}
+.ml-650{
+	margin-left:650px;
+}
+.ml-600{
+	margin-left:600px;
+}
+.ml-690{
+	margin-left:690px;
+}
+.ml-200{
+	margin-left:200px;
+}
+.ml-80{
+	margin-left:80px;
+}
+.color-red{
+	color:red;
+}
+.color-purple{
+	color:purple;
+}
+.color-yellow{
+	color:yellow;
+}
+.font-size-29{
+	font-size:29px;
+}
+
+.font-size-21{
+	font-size:21px;
+}
+.font-weight-bold{
+	font-weight:bold;
+}
+.menu ul {
+    list-style-type: none;
+
+    margin: 0;
+
+    padding: 0;
+
+    overflow: hidden;
+}
+.menu li {
+    float: left;
+}
+
+.menu li a {
+    display: block;
+
+    padding:12px 14px;
+
+}
